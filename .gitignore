@@ -1,0 +1,9 @@
+.env
+.pio/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+influx-data/
+outputs/*.csv
+
